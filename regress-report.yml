@@ -21,7 +21,7 @@ test-cases:
     status: fail
 
   - summary: |
-    Добавление товара в корзину
+      Добавление товара в корзину
     status: pass
 
 bugreports: []
