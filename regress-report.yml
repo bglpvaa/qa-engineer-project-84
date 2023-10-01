@@ -1,28 +1,44 @@
 ---
 test-cases:
-  - summary: |
-      Открытие карточки товара
-    status: pass
+- summary: |
+    Открытие карточки товара
+  status: pass
 
-  - summary: |
-      Проверка фильтра по категории
-    status: pass
+- summary: |
+    Проверка фильтра по категории
+  status: pass
 
-  - summary: |
-      Проверка фильтра по бренду
-    status: pass
+- summary: |
+    Проверка фильтра по бренду
+  status: pass
 
-  - summary: |
-      Проверка фильтра товаров по цене
-    status: pass
+- summary: |
+    Проверка фильтра товаров по цене
+  status: pass
 
-  - summary: |
-      Проверка фильтра по цене
-    status: fail
+- summary: |
+    Проверка фильтра по цене
+  status: fail
 
-  - summary: |
-      Добавление товара в корзину
-    status: pass
+- summary: |
+    Добавление товара в корзину
+  status: pass
+
+- summary: |
+    Успешное оформление заказа
+  status: fail
+
+- summary: |
+    Успешное очищение корзины
+  status: pass
+
+- summary: |
+    Успешный поиск товара по ключевому слову
+  status: pass
+
+- summary: | 
+    Проверка фильтра по хештегу в карточке товара
+  status: fail
 
 bugreports: []
 
