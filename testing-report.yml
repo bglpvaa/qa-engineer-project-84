@@ -24,6 +24,10 @@
   status: pass
 
 - summary: |
+    Успешное оформление заказа
+  status: fail
+
+- summary: |
     Успешное очищение корзины
   status: pass
 
