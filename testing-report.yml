@@ -22,3 +22,11 @@
 - summary: |
     Добавление товара в корзину
   status: pass
+
+- summary: |
+    Успешное очищение корзины
+  status: pass
+
+- summary: |
+    Успешный поиск товара по ключевому слову
+  status: pass
