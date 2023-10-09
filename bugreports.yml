@@ -86,6 +86,7 @@
     Safari Version 16.5.2 (18615.2.9.11.10) (64 бит)
   steps-to-reproduce: |
     1. Зайти на страницу корзины https://hexlet-products-store.vercel.app/cart
+    2. В корзине должны быть добавлены товары
     2. Открыть devtools
     3. Нажать кнопку «Оформить заказ»
   expected-result: |
